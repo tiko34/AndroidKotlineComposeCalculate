@@ -1,1 +1,1 @@
-![Иллюстрация к проекту](https://github.com/tiko34/Net6_XAML_One_Plus_One/blob/main/Window.png](https://github.com/tiko34/AndroidKotlineComposeCalculate/blob/main/VJ%2Cbkmysqrfkmkrekznjh.png)https://github.com/tiko34/AndroidKotlineComposeCalculate/blob/main/VJ%2Cbkmysqrfkmkrekznjh.png)
+![Иллюстрация к проекту](https://github.com/tiko34/AndroidKotlineComposeCalculate/blob/main/VJ%2Cbkmysqrfkmkrekznjh.png)
