@@ -48,7 +48,7 @@ fun DefaultPreview() {
                     Text(text = input)
                 }
                 Row {
-                    Text(text = "Итог:")
+                    Text(text = "Итог :")
                     Text(text = out)
                 }
             }
